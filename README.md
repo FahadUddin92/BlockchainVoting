@@ -5,6 +5,7 @@ Install Truffle and Ganache using npm. https://truffleframework.com/tutorials/ho
 Open Ganache <br>
 Open the terminal and type:<br>
 $truffle compile<br>
+$truffle develop<br>
 $truffle migrate<br>
 $npm run dev<br>
 
